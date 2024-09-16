@@ -4,6 +4,7 @@ The goal is to provide a reliable solution that operates from 6 PM to 10 PM,
 enabling efficient real-time video detection and image upload through a Graphical User Interface (GUI) designed with Tkinter.
 
 Supported Python Version : Python 3.7.16
+
 Run Sign language Detection Train..ipynb to train model
 
 
