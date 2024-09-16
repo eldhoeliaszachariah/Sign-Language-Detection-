@@ -12,5 +12,5 @@ Run Sign language Detection Train.ipynb to train model : https://github.com/eldh
 
 
 
-Run GUI.py file for start detection 
+Run GUI.py file for start detection : https://github.com/eldhoeliaszachariah/Sign-Language-Detection-/blob/main/GUI.py
 ![image](https://github.com/user-attachments/assets/472aaa13-5f13-48bf-a79a-bf6b68347178)
