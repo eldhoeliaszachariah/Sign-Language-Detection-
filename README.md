@@ -5,7 +5,7 @@ enabling efficient real-time video detection and image upload through a Graphica
 
 Supported Python Version : Python 3.7.16
 
-Run Sign language Detection Train..ipynb to train model : https://github.com/eldhoeliaszachariah/Sign-Language-Detection-/blob/main/Sign%20language%20Detection%20Train.ipynb
+Run Sign language Detection Train.ipynb to train model : https://github.com/eldhoeliaszachariah/Sign-Language-Detection-/blob/main/Sign%20language%20Detection%20Train.ipynb
 
 
 ![Output](https://github.com/user-attachments/assets/20b77de4-ccff-4590-8f86-3113871cabe4)
